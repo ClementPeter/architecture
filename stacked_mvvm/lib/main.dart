@@ -1,5 +1,12 @@
 import 'package:flutter/material.dart';
 
+//STACKED ARCHITECTURE CHECKLIST
+//State Mgmt with stacked / mvvm patter
+//Navigation with Stacked - Get and Auto_Route for ease
+//Dependency Injection - Get it and Injectable 
+//Data MOdels - Freezed and JSON Serializable
+///
+
 void main() {
   runApp(const MyApp());
 }
@@ -11,7 +18,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      //initialRoute: ,
+      //onGenerateRoute: ,
+        title: 'Flutter Demo',
       theme: ThemeData(
         // This is the theme of your application.
         //
