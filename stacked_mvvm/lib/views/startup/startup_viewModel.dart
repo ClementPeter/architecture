@@ -1,8 +1,8 @@
-import 'package:flutter/material.dart';
-import 'package:stacked/stacked.dart';
+// import 'package:flutter/material.dart';
+// import 'package:stacked/stacked.dart';
 
-class StartupViewModel extends BaseViewModel {
-  String _title = "Startup View";
+// class StartupViewModel extends BaseViewModel {
+//   String _title = "Startup View";
 
-  String get title => "$_title";
-}
+//   String get title => "$_title";
+// }
